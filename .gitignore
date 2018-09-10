@@ -1,0 +1,7 @@
+# Directories to ignore
+worksheets
+.ipynb_checkpoints
+
+# Files to ignore
+*.DS_Store
+
